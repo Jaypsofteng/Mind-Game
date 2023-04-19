@@ -5,13 +5,7 @@ Mind-game is a game designed to test and improve a player's ability to remember 
 Overall, Mind-game is a challenging and entertaining game that tests a player's memory and concentration skills.
 
 
-## Start the game
+## [Start the game](https://jaypsofteng.github.io/Mind-Game/)
 # [![Game-Start](/img/start.PNG)](https://github.com/jaypsofteng/Mind-Game.git)
   
-## Clicked on 2 boxes with same content
-# [![Game-Match](/img/match.PNG)](https://github.com/jaypsofteng/Mind-Game.git)
-
-
 Win the game by matching all boxes. 
-
-[Play !](https://jaypsofteng.github.io/Mind-Game/)
